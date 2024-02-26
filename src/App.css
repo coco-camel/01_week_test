@@ -29,4 +29,5 @@ h1 {
   border: 3px solid #1eca35;
   border-radius: 10px;
   font-weight: 500;
+  word-wrap: break-word;
 }
